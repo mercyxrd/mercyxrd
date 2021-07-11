@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**mercyxrd/mercyxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hakkımda
 
-Here are some ideas to get you started:
+Kendi halimde bot geliştirmeye çalışan 17 yaşında bir öğrenciyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sosyal Medya Hesaplarım
+
+[Discord:](https://discord.com/users/411621794131476480)
+[Instgram:](https://pip.pypa.io/en/stable/)
+
+## Github Istatistiklerim
+
+[KimseBas?](https://github-readme-stats.vercel.app/api/?username=mercyxrd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[KimseBas?](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyxrd&layout=compactlayout)
