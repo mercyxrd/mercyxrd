@@ -5,8 +5,8 @@ Kendi halimde bot geliştirmeye çalışan 17 yaşında bir öğrenciyim.
 
 ## Sosyal Medya Hesaplarım
 
-[Discord]: (https://discord.com/users/411621794131476480)
-[Instagram]: (https://instagram.com/mercyxrd)
+[Dıscord](https://discord.com/users/411621794131476480)
+[Instagram](https://instagram.com/mercyxrd)
 
 ## Github Istatistiklerim
 
