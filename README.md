@@ -11,4 +11,4 @@
 
 ## Discord & İnstagram Hesaplarım
 
-[![AllahYok](https://lanyard-profile-readme.vercel.app/api/411621794131476480)](https://discord.com/users/411621794131476480)
+// [![AllahYok](https://lanyard-profile-readme.vercel.app/api/411621794131476480)](https://discord.com/users/411621794131476480)
