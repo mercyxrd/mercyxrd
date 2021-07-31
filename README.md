@@ -14,4 +14,4 @@
 - Instagram: [mercyxrd](https://instagram.com/mercyxrd)
 
 
-<b>Not:</b> En iyi diller, yalnızca genel kodumun oluşturduğu dillerin bir ölçüsüdür ve deneyim veya beceri düzeyini yansıtmaz.
+<b>Mêrcy:</b> Eğer gerçekler teorinize uymuyorsa gerçekliği değiştirin.
