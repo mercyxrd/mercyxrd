@@ -1,11 +1,14 @@
 
-# Hakkımda
+# Merhaba ben Mercy.
 
-Kendi halimde bot geliştirmeye çalışan 17 yaşında bir öğrenciyim.
+## Hakkımda
+• Discord platformunda public & ekip sunucuları için bot geliştiriyorum.
 
-## Sosyal Medya Hesaplarım
+• Arada sıkıldıkça burda kullanmanız için kendime ait olan altyapılarımı paylaşacağım.
 
-[Dıscord](https://discord.com/users/411621794131476480)
-[Instagram](https://instagram.com/mercyxrd)
+## Github İstatistiklerim
+https://github-readme-stats.vercel.app/api?username=mercyxrd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/411621794131476480)](https://discord.com/users/411621794131476480)
+## Discord & İnstagram Hesaplarım
+
+[![AllahYok](https://lanyard-profile-readme.vercel.app/api/411621794131476480)](https://discord.com/users/411621794131476480)
