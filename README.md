@@ -14,4 +14,6 @@
 - Instagram: [mercyxrd](https://instagram.com/mercyxrd)
 
 
+
+
 <b>Mêrcy:</b> Eğer gerçekler teorinize uymuyorsa gerçekliği değiştirin.
