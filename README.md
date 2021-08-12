@@ -1,6 +1,6 @@
 
 # Merhaba ben Mercy.
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/329521933093961730)](https://discord.com/users/329521933093961730)
 ## Hakkımda
 - Discord platformunda public & ekip sunucuları için bot geliştiriyorum.
 
