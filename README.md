@@ -16,4 +16,4 @@
 
 
 
-<b>Mêrcy:</b> Eğer gerçekler teorinize uymuyorsa gerçekliği değiştirin.
+<b>Mêrcy.</b>
