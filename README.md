@@ -1,6 +1,6 @@
 
 # Merhaba ben Mercy.
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/329521933093961730)](https://discord.com/users/329521933093961730)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/596777458880086067)](https://discord.com/users/596777458880086067)
 ## Hakkımda
 - Discord platformunda public & ekip sunucuları için bot geliştiriyorum.
 
@@ -10,7 +10,7 @@
 ![Mercxy](https://github-readme-stats.vercel.app/api?username=mercyxrd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ## Sosyal Medya Hesaplarım
-- Discord: [Mêrcy.#1992](https://discord.com/users/329521933093961730)
+- Discord: [mêrcy da best#0001](https://discord.com/users/596777458880086067)
 - Instagram: [mercyxrd](https://instagram.com/mercyxrd)
 
 
