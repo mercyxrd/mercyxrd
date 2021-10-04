@@ -10,7 +10,7 @@
 ![Mercxy](https://github-readme-stats.vercel.app/api?username=mercyxrd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ## Sosyal Medya Hesaplarım
-- Discord: [mêrcy da best#0001](https://discord.com/users/596777458880086067)
+- Discord: [Mêrcy#1992](https://discord.com/users/411621794131476480)
 - Instagram: [mercyxrd](https://instagram.com/mercyxrd)
 
 
